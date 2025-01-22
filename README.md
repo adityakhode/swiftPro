@@ -95,7 +95,7 @@ nano videoSubscriber.py
 ```
 - write or copy paste the code given below in videoSubscriber.py
 ```
-  import rclpy
+import rclpy
 from rclpy.node import Node
 from sensor_msgs.msg import Image, CameraInfo
 from cv_bridge import CvBridge
