@@ -6,7 +6,7 @@
 
 **# This documennt is having set of command that helps to set the PiCamera on Ubuntu 22.04**
 
-**# 🔗The refernce is take from the 🔗[gaseoustortoise](https://www.youtube.com/watch?v=va7o7wzhEE4&t=49s)**
+**# 🔗The refernce is take from the [gaseoustortoise](https://www.youtube.com/watch?v=va7o7wzhEE4&t=49s)**
 
 **# This document is made for ros2 humble**
 
